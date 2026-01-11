@@ -8,6 +8,7 @@ custom bitrate doesn't work yet either . sorry
 
 # instructions
 needs to be placed in a folder containing folders which contain .flac files
+
 doesn't work out of the box converting to or from any other file types, though it'd be very easy to modify it to do so
 
 
